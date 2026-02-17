@@ -5,6 +5,11 @@ author_profile: false
 ---
 
 ## Purdue University
+* Spring 2026
+    - MA 55800 - Representation Theory
+    - MA 57200 - Algebraic Topology
+    - MA 59500L - Lie Algebras (topics course)
+    - MA 68400 - Class Field Theory
 * Fall 2025
     - MA 55700 - Commutative Algebra
     - MA 54400 - Measure Theory
